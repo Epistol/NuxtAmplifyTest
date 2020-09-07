@@ -37,7 +37,6 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    { src: '~/plugins/amplify.js', mode: 'client' }
   ],
   /*
   ** Auto import components
